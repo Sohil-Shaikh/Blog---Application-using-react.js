@@ -7,10 +7,8 @@ This repository contains the source code and deployment instructions for a simpl
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
-- [Deployment Process](#deployment-process)
 - [Architecture Overview](#architecture-overview)
-- [Live Demo](#live-demo)
-- [Future Improvements](#future-improvements)
+- [My Blog screenshot](#my-blogs)
 
 ---
 
@@ -101,7 +99,7 @@ This repository contains the source code and deployment instructions for a simpl
 ### Database
 - Optionally uses **Azure SQL Database** for persistent storage.
 
-# My Blog
+## My Blog
 
 Here are some screenshots of my blog:
 
